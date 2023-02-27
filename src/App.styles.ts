@@ -1,8 +1,5 @@
 import styled, { createGlobalStyle } from "styled-components";
 
-import BackGroundImg from './images/background.jpg'
-
-
 export const GlbStyle = createGlobalStyle`
  html {
     height :100%;
